@@ -1,0 +1,34 @@
+h1,h2{
+    color: blue;
+    font-size: 40px;
+}
+
+a{
+    color: green;
+font-size: 22px;
+}
+p{
+    color: coral;
+    /*font-size: 26px;*/
+    width: 50%;
+    background-color: whitesmoke;
+    height: 50px;
+    display: block;
+}
+span{
+    color: coral;
+    /*font-size: 26px;*/
+    background-color: whitesmoke;
+    display: inline;
+}
+img{
+    width: 200px;
+    height: 240px;
+    object-fit: cover;
+}
+body{
+    background-image: url("https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
